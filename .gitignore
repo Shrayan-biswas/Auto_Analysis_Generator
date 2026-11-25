@@ -1,0 +1,17 @@
+.env
+.streamlit/secrets.toml
+.venv/
+venv/
+env/
+.vscode/
+Lib/
+Scripts/
+Include/
+share/
+etc/
+pyvenv.cfg
+CACHEDIR.TAG
+.lock
+__pycache__/
+reports/
+*.pyc
